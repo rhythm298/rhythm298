@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" role="img" aria-label="Rhythm Mehta developer terminal profile banner">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070c1a"/><stop offset=".55" stop-color="#0d1930"/><stop offset="1" stop-color="#09111f"/></linearGradient>
+ <linearGradient id="edge" x1="0" x2="1"><stop stop-color="#30e3ca"/><stop offset=".55" stop-color="#7c3aed"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#244064" stroke-opacity=".19"/></pattern>
+</defs>
+<rect width="1000" height="350" rx="20" fill="url(#bg)"/>
+<rect width="1000" height="350" rx="20" fill="url(#grid)"/>
+<rect x="2" y="2" width="996" height="346" rx="18" fill="none" stroke="url(#edge)" stroke-width="2"/>
+<rect x="24" y="22" width="952" height="306" rx="12" fill="#0a1020" fill-opacity=".89" stroke="#253a5b"/>
+<path d="M24 61H976" stroke="#24334b"/>
+<circle cx="49" cy="42" r="7" fill="#fb7185"/><circle cx="73" cy="42" r="7" fill="#fbbf24"/><circle cx="97" cy="42" r="7" fill="#34d399"/>
+<text x="500" y="46" fill="#8096b6" text-anchor="middle" font-size="14" font-family="monospace">rhythm@research-lab: ~/portfolio</text>
+<text x="52" y="100" fill="#34d399" font-size="17" font-family="monospace">➜ ~ whoami</text>
+<text x="52" y="153" fill="#e5f5ff" font-size="43" font-weight="bold" font-family="Arial,Helvetica,sans-serif" letter-spacing="2">RHYTHM MEHTA</text>
+<rect x="51" y="172" width="468" height="3" rx="1.5" fill="url(#edge)"/>
+<text x="52" y="208" fill="#65e7ff" font-size="19" font-family="monospace">AI / ML  •  CYBERSECURITY  •  RESEARCH</text>
+<text x="52" y="248" fill="#b0bfd4" font-size="16" font-family="monospace">$ build --secure --intelligent --impactful</text>
+<text x="52" y="288" fill="#34d399" font-size="16" font-family="monospace">[OK] curiosity initialized. ideas compiling...</text>
+<rect x="535" y="273" width="10" height="18" fill="#34d399"><animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<g fill="none" stroke="#38bdf8" stroke-width="2" opacity=".42"><circle cx="825" cy="175" r="93"/><circle cx="825" cy="175" r="70"/><path d="M825 82V268M732 175H918"/></g>
+<g filter="url(#glow)" fill="#38bdf8"><circle cx="825" cy="82" r="5"/><circle cx="918" cy="175" r="5"/><circle cx="732" cy="175" r="5"/><circle cx="825" cy="268" r="5"/></g>
+<path d="M781 178l26 26 57-65" fill="none" stroke="#34d399" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
