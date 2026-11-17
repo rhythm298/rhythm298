@@ -1,166 +1,63 @@
-<!-- Rhythm Mehta • Developer Terminal Edition -->
-<div align="center">
+# Hi 👋, I'm Rhythm Mehta
 
-<img src="./assets/terminal.svg" alt="Rhythm Mehta — developer terminal" width="100%" />
+### 🚀 Computer Science Enthusiast | AI/ML Explorer 🤖 | Cybersecurity Learner 🔐 | Aspiring Researcher 🔬
 
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhythm298&label=Profile views&color=0e75b6&style=flat" alt="rhythm298" /> </p>
 
-<a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=950&color=36E1D1&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Building+intelligent+systems+%F0%9F%A4%96;Exploring+cybersecurity+%26+ethical+hacking+%F0%9F%94%90;Learning.+Building.+Researching.+Repeat.;Turning+ambitious+ideas+into+real+projects+%E2%9A%A1" alt="Animated typing introduction" /></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhythm298" alt="rhythm298" /></a> </p>
 
-<br />
+- 🔭 I'm currently working on **Building AI/ML and cybersecurity projects.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rhythmm.dev-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rhythmm.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhythm298/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhythmm.work@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-121827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rhythm298)
+Developing secure, intelligent, and real-world software solutions.
 
-![Profile views](https://komarev.com/ghpvc/?username=rhythm298&label=PROFILE+VIEWS&color=0e75b6&style=flat-square)
+Exploring research opportunities in emerging technologies.**
 
-</div>
+- 🌱 I'm currently learning **Artificial Intelligence & Machine Learning
 
----
+Cybersecurity & Ethical Hacking
 
-### `>_ whoami`
+Data Structures & Algorithms
 
-```yaml
-name: Rhythm Mehta
-handle: rhythm298
-identity: Computer Science enthusiast | Builder | Aspiring researcher
-focus:
-  - Artificial Intelligence & Machine Learning
-  - Cybersecurity & Ethical Hacking
-  - Secure and meaningful software
-ventures:
-  - The Third Eye
-  - Cluster it
-current_mode: Learning • Experimenting • Building
-open_to: Open source • Hackathons • Research collaborations
-```
+Python, C++, and Software Development**
 
-### `>_ cat mission.txt`
+- 👯 I'm looking to collaborate on **Open-source AI/ML and cybersecurity projects.
 
-> **I don't just want to write code — I want to build technology worth trusting.**
->
-> I'm exploring the intersection of AI/ML, cybersecurity, and practical software engineering. I enjoy turning challenging ideas into usable projects, collaborating at hackathons, and learning through experimentation. I'm also working on ideas around **The Third Eye** and **Cluster it**.
+Hackathons, innovative tech solutions, and research projects.**
 
-<table>
-<tr><td width="50%" valign="top">
+- 🤝 I'm looking for help with **For my two startups The Third Eye , Cluster it
+Advanced AI/ML concepts 
 
-#### 🔭 `currently_building`
-- AI/ML and cybersecurity projects
-- Secure, intelligent software solutions
-- Ideas for **The Third Eye** & **Cluster it**
+Cybersecurity research and security-focused development.
 
-#### 🌱 `currently_learning`
-- Machine learning and applied AI
-- Ethical hacking & security fundamentals
-- DSA, Python, C++ and research methods
+Research collaborations and open-source contributions.**
 
-</td><td width="50%" valign="top">
+- 💬 Ask me about **Python & C++
 
-#### 🤝 `collaboration_mode`
-- Open-source projects with real-world value
-- Research, hackathons and product experiments
-- Teammates interested in ambitious startup ideas
+Data Structures and Algorithms
 
-#### 💬 `ask_me_about`
-- Python and C++
-- Problem solving and DSA
-- AI/ML, cybersecurity and hackathons
+AI/ML fundamentals
 
-</td></tr>
-</table>
+Cybersecurity
 
-### `>_ ls ./toolkit`
+Hackathons and project development**
 
-**Core languages & web**
+- 📫 How to reach me **rhythmm.work@gmail.com**
 
-![Skills](https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,react,nodejs&perline=10)
+- ⚡ Fun fact **💡 I love turning complex problems into simple solutions, exploring emerging technologies, and challenging myself through coding and hackathons!**
 
-**AI, data & research**
+- 👨‍💻 All of my projects are available at **[https://rhythmm.dev](https://rhythmm.dev)**
 
-![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&perline=10)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/rhythm298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rhythm298" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rhythm298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rhythm298" height="30" width="40" /></a>
+</p>
 
-`NumPy` · `Pandas` · `Matplotlib` · `Jupyter` · `Hugging Face`
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
 
-**Backend, databases & developer tooling**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhythm298&show_icons=true&locale=en&layout=compact" alt="rhythm298" /></p>
 
-![Skills](https://skillicons.dev/icons?i=git,github,docker,fastapi,flask,django,mongodb,mysql,postgres,aws&perline=10)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhythm298&show_icons=true&locale=en" alt="rhythm298" /></p>
 
-<details>
-<summary><b>⚙️ More technologies I'm exploring</b></summary>
-<br />
-
-`Azure` · `GCP` · `Firebase` · `Kubernetes` · `LangChain` · `Ollama` · `Redis` · `GraphQL` · `Angular` · `Express`
-
-*Technologies listed here are areas of experience or exploration, not a claim of mastery.*
-
-</details>
-
-### `>_ ./ventures --status=building`
-
-| Initiative | Focus | Next step |
-|:---|:---|:---|
-| **The Third Eye** | Startup / product exploration | Add a public repository or product link when ready |
-| **Cluster it** | Startup / product exploration | Add a public repository or product link when ready |
-| **Open-source & research** | AI/ML, security and reliable systems | Explore collaborations and contribute code |
-
-<details>
-<summary><b>🧪 Developer philosophy</b></summary>
-<br />
-
-```text
-$ git commit -m "stay curious"
-[main] Keep learning, testing, improving.
-
-$ ./principles
-[✓] Build useful things
-[✓] Keep security in the design
-[✓] Learn in public
-[✓] Collaborate generously
-[✓] Ship, reflect, iterate
-```
-
-</details>
-
-### `>_ github --analytics`
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=rhythm298&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rhythm's GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhythm298&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages used across public GitHub repositories" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=rhythm298&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-### `>_ ./contributions --animate`
-
-<div align="center">
-
-<!-- This image appears after the supplied GitHub Action is run successfully. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhythm298/rhythm298/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhythm298/rhythm298/output/github-snake.svg" />
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/rhythm298/rhythm298/output/github-snake.svg" />
-</picture>
-
-</div>
-
-### `>_ ./connect.sh`
-
-<div align="center">
-
-**Have a research idea, security challenge, or product worth building?**
-
-[**📨 Send an email**](mailto:rhythmm.work@gmail.com) · [**🌐 Visit my portfolio**](https://rhythmm.dev) · [**💼 Connect on LinkedIn**](https://www.linkedin.com/in/rhythm298/)
-
-<sub>⚡ Fun fact: I like transforming complicated problems into simple, useful solutions — ideally with fewer bugs than ideas.</sub>
-
-<br /><br />
-
-`</> built with curiosity, caffeine & commits`
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhythm298&" alt="rhythm298" /></p>
