@@ -10,7 +10,7 @@
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rhythmm.dev-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rhythmm.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhythm298/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justrhythm/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhythmm.work@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-121827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rhythm298)
 
@@ -155,7 +155,7 @@ $ ./principles
 
 **Have a research idea, security challenge, or product worth building?**
 
-[**📨 Send an email**](mailto:rhythmm.work@gmail.com) · [**🌐 Visit my portfolio**](https://rhythmm.dev) · [**💼 Connect on LinkedIn**](https://www.linkedin.com/in/rhythm298/)
+[**📨 Send an email**](mailto:rhythmm.work@gmail.com) · [**🌐 Visit my portfolio**](https://rhythmm.dev) · [**💼 Connect on LinkedIn**](https://www.linkedin.com/in/justrhythm/)
 
 <sub>⚡ Fun fact: I like transforming complicated problems into simple, useful solutions — ideally with fewer bugs than ideas.</sub>
 
